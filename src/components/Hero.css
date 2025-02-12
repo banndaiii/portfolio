@@ -1,0 +1,9 @@
+/* Hero.css */
+#hero {
+  height: 100vh;
+  text-align: center;
+  padding-top: 50px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
